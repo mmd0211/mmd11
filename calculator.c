@@ -1,5 +1,6 @@
 #include <stdio.h>
 int calculate(int a , int b){
-  // Some calculation
-return a * b * 2 -10;
+<<<<<<< HEAD
+  //  A combination of both calculations
+return a * b * 2 -10 + (a + b);
 }
