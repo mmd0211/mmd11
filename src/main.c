@@ -18,7 +18,7 @@ int main(int argc, char const *argv[])
 	printf("\n\n\n");
 	printf("Is Exist = %d\n", is_exist(NULL));
 
-	printf("Extra Print\n");
+	// printf("Extra Print\n");
 	return 0;
 }
 #endif
